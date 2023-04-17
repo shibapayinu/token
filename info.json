@@ -1,0 +1,10 @@
+{
+    "name": "Shiba Inu Pay",
+    "symbol": "SHIBAY",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "This is a page of a Meme project with the idea of ​​creating a cryptocurrency NFT-CARD for payments with instant conversion and a unique token burning mechanism.",
+    "website": "https://shibay.app/",
+    "explorer": "https://bscscan.com/token/0x0ff0eeceb900c6008bdde65479b5624d4e3415dc",
+    "status": "active"
+}
